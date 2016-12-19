@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab1/CS2004_Lab1.iml" filepath="$PROJECT_DIR$/CS2004_Lab1/CS2004_Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab10/CS2004_Lab10.iml" filepath="$PROJECT_DIR$/CS2004_Lab10/CS2004_Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab11/CS2004_Lab11.iml" filepath="$PROJECT_DIR$/CS2004_Lab11/CS2004_Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab12/CS2004_Lab12.iml" filepath="$PROJECT_DIR$/CS2004_Lab12/CS2004_Lab12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab14/CS2004_Lab14.iml" filepath="$PROJECT_DIR$/CS2004_Lab14/CS2004_Lab14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab15/CS2004_Lab15.iml" filepath="$PROJECT_DIR$/CS2004_Lab15/CS2004_Lab15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab2/CS2004_Lab2.iml" filepath="$PROJECT_DIR$/CS2004_Lab2/CS2004_Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab4/CS2004_Lab4.iml" filepath="$PROJECT_DIR$/CS2004_Lab4/CS2004_Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab5/CS2004_Lab5.iml" filepath="$PROJECT_DIR$/CS2004_Lab5/CS2004_Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab6/CS2004_Lab6.iml" filepath="$PROJECT_DIR$/CS2004_Lab6/CS2004_Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab7/CS2004_Lab7.iml" filepath="$PROJECT_DIR$/CS2004_Lab7/CS2004_Lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab8/CS2004_Lab8.iml" filepath="$PROJECT_DIR$/CS2004_Lab8/CS2004_Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2004_Lab9/CS2004_Lab9.iml" filepath="$PROJECT_DIR$/CS2004_Lab9/CS2004_Lab9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
