@@ -1,7 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a8aa9de-766c-48cd-b793-a57d4455772e" name="Default" comment="" />
+    <list default="true" id="4a8aa9de-766c-48cd-b793-a57d4455772e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab1/CS2004_Lab1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab1/ILoveCS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab1/Numeric.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab1/RootApproximationTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab1/RootApproximator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab10/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab10/CS2004_Lab10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab10/Cannon.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab10/CannonSolution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab11/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab11/CS2004_Lab11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab11/CompareScalesChrome.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab11/ScalesChrome.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab11/SimpleGeneticAlgorithm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab12/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab12/CS2004_Lab12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab12/CompareOneMaxChrome.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab12/OneMaxChrome.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab12/SimpleGeneticAlgorithm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab14/CS2004_Lab14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab14/KMeans.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab15/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab15/CS2004_Lab15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab15/HC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab15/TSP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab2/ArrayMaxExercise.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab2/CS2004_Lab2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab4/CS2004_Lab4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab4/Methods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab5/CS2004_Lab5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab5/Data.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab6/CS2004_Lab6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab6/ThreeSorts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab7/CS2004_Lab7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab7/CompareEdge.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab7/Edge.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab7/MST.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab8/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab8/CS2004_Lab8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab8/ScalesSolution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab9/CS2004.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab9/CS2004_Lab9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CS2004_Lab9/ScalesSolution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JDBCSelect/JDBCSelect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JDBCUpdate/JDBCUpdate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/MinimaxTTT/MinimaxTTT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/AI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/GameMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/NoughtsAndCrosses$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/NoughtsAndCrosses$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/NoughtsAndCrosses$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/NoughtsAndCrosses$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/NoughtsAndCrosses/NoughtsAndCrosses.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Test/Numeric.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Test/RootApproximationTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Test/RootApproximator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/CS2004_Lab1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/CS2004_Lab1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/src/CS2004_Lab1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/src/ILoveCS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/src/Numeric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/src/RootApproximationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab1/src/RootApproximator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab10/CS2004_Lab10.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab10/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab10/src/CS2004_Lab10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab10/src/Cannon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab10/src/CannonSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/CS2004_Lab11.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/src/CS2004_Lab11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/src/CompareScalesChrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/src/ScalesChrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab11/src/SimpleGeneticAlgorithm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/CS2004_Lab12.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/src/CS2004_Lab12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/src/CompareOneMaxChrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/src/OneMaxChrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab12/src/SimpleGeneticAlgorithm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab14/CS2004_Lab14.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab14/src/CS2004_Lab14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab14/src/KMeans.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab15/CS2004_Lab15.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab15/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab15/src/CS2004_Lab15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab15/src/HC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab15/src/TSP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab2/CS2004_Lab2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab2/src/ArrayMaxExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab2/src/CS2004_Lab2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab4/CS2004_Lab4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab4/src/CS2004_Lab4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab4/src/Methods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab5/CS2004_Lab5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab5/src/CS2004_Lab5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab5/src/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab6/CS2004_Lab6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab6/src/CS2004_Lab6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab6/src/ThreeSorts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab7/CS2004_Lab7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab7/src/CS2004_Lab7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab7/src/CompareEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab7/src/Edge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab7/src/MST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab8/CS2004_Lab8.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab8/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab8/src/CS2004_Lab8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab8/src/ScalesSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab9/CS2004_Lab9.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab9/src/CS2004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab9/src/CS2004_Lab9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS2004_Lab9/src/ScalesSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntelliJWorkspace.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/Test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/src/Numeric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/src/RootApproximationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/src/RootApproximator.java" />
+    </list>
     <ignored path="Year2LabWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -183,12 +313,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482164540617</updated>
-      <workItem from="1482164542228" duration="39000" />
+      <workItem from="1482164542228" duration="119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39000" />
+    <option name="totallyTimeSpent" value="119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
